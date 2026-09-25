@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chi tiết truyện · YANG爱看小说</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="index.html">
+      <span class="brand-cn">YANG爱看小说</span>
+      <span class="brand-sub">Không gian đọc truyện & bản dịch</span>
+    </a>
+    <button class="theme-btn" id="themeBtn">☾</button>
+  </div>
+</header>
+
+<main class="container story-page">
+  <a class="back-link" href="index.html">← Về trang chủ</a>
+  <section class="story-detail" id="storyDetail"></section>
+
+  <section class="section">
+    <div class="section-heading">
+      <div><p class="eyebrow">CHAPTERS</p><h2>Mục lục</h2></div>
+      <span class="count" id="chapterCount"></span>
+    </div>
+    <div class="chapter-list" id="chapterList"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="container footer-inner">
+    <strong>YANG爱看小说</strong>
+    <span>Đọc truyện · Bản dịch · Lưu chương</span>
+  </div>
+</footer>
+<script src="data.js"></script>
+<script src="script.js"></script>
+<script>
+  const id = new URLSearchParams(location.search).get('id') || 'demo';
+  const story = STORIES.find(s => s.id === id) || STORIES[0];
+  document.title = story.title + ' · YANG爱看小说';
+
+  document.getElementById('storyDetail').innerHTML = `
+    <div class="cover-placeholder">${story.short}</div>
+    <div class="story-info">
+      <p class="eyebrow">${story.genreLabel}</p>
+      <h1>${story.title}</h1>
+      <p class="author">Tác giả: ${story.author}</p>
+      <p class="desc">${story.description}</p>
+      <div class="tags">${story.tags.map(t => `<span>${t}</span>`).join('')}</div>
+      <a class="primary-btn" href="chapter.html?id=${story.id}&chapter=${story.chapters[story.chapters.length-1].number}">Đọc chương mới nhất →</a>
+    </div>
+  `;
+
+  document.getElementById('chapterCount').textContent = story.chapters.length + ' chương';
+  document.getElementById('chapterList').innerHTML = story.chapters.slice().reverse().map(ch => `
+    <a class="chapter-item" href="chapter.html?id=${story.id}&chapter=${ch.number}">
+      <span>Chương ${ch.number}</span>
+      <strong>${ch.title}</strong>
+      <small>${ch.date}</small>
+    </a>
+  `).join('');
+</script>
+</body>
+</html>

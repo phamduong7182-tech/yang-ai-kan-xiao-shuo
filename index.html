@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YANG爱看小说 · Không gian đọc truyện</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <span class="brand-cn">YANG爱看小说</span>
+        <span class="brand-sub">Không gian đọc truyện & bản dịch</span>
+      </a>
+      <button class="theme-btn" id="themeBtn" aria-label="Đổi giao diện">☾</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <div>
+        <p class="eyebrow">WELCOME TO YANG爱看小说</p>
+        <h1>Đọc truyện.<br><span>Đọc thật chill.</span></h1>
+        <p class="hero-text">Nơi lưu trữ các bộ truyện và bản dịch của YANG. Tìm truyện, chọn chương và đọc ngay trên điện thoại.</p>
+        <a href="#stories" class="primary-btn">Khám phá truyện ↓</a>
+      </div>
+      <div class="hero-card">
+        <div class="hero-symbol">Y</div>
+        <p>YANG爱看小说</p>
+        <small>Stories · Translations · Chapters</small>
+      </div>
+    </section>
+
+    <section class="container section" id="stories">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">LIBRARY</p>
+          <h2>Truyện đang dịch</h2>
+        </div>
+        <span class="count" id="storyCount"></span>
+      </div>
+
+      <div class="search-row">
+        <input id="searchInput" type="search" placeholder="🔍  Tìm tên truyện..." autocomplete="off">
+        <select id="genreFilter">
+          <option value="all">Tất cả thể loại</option>
+          <option value="dammy">Đam mỹ</option>
+          <option value="bachhop">Bách hợp</option>
+          <option value="ngontinh">Ngôn tình</option>
+        </select>
+      </div>
+
+      <div class="story-grid" id="storyGrid"></div>
+      <p class="empty" id="emptyState" hidden>Không tìm thấy truyện phù hợp.</p>
+    </section>
+
+    <section class="container section updates">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">LATEST</p>
+          <h2>Mới cập nhật</h2>
+        </div>
+      </div>
+      <div id="latestList" class="latest-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <strong>YANG爱看小说</strong>
+      <span>Đọc truyện · Bản dịch · Lưu chương</span>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

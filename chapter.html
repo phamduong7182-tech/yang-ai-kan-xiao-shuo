@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Đọc chương · YANG爱看小说</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="index.html">
+      <span class="brand-cn">YANG爱看小说</span>
+      <span class="brand-sub">Không gian đọc truyện & bản dịch</span>
+    </a>
+    <button class="theme-btn" id="themeBtn">☾</button>
+  </div>
+</header>
+
+<main class="container reader-page">
+  <div class="reader-top">
+    <a class="back-link" id="storyLink" href="index.html">← Về truyện</a>
+    <span id="readerMeta"></span>
+  </div>
+  <article class="reader">
+    <p class="eyebrow">YANG爱看小说</p>
+    <h1 id="chapterTitle"></h1>
+    <div class="reader-content" id="chapterContent"></div>
+  </article>
+  <nav class="reader-nav">
+    <a id="prevBtn" class="secondary-btn">← Chương trước</a>
+    <a id="listBtn" class="secondary-btn">Mục lục</a>
+    <a id="nextBtn" class="secondary-btn">Chương sau →</a>
+  </nav>
+</main>
+
+<footer>
+  <div class="container footer-inner">
+    <strong>YANG爱看小说</strong>
+    <span>Chúc bạn đọc vui vẻ ♡</span>
+  </div>
+</footer>
+<script src="data.js"></script>
+<script src="script.js"></script>
+<script>
+  const params = new URLSearchParams(location.search);
+  const id = params.get('id') || 'demo';
+  const number = Number(params.get('chapter') || 1);
+  const story = STORIES.find(s => s.id === id) || STORIES[0];
+  const chapter = story.chapters.find(c => c.number === number) || story.chapters[0];
+
+  document.title = `Chương ${chapter.number} · ${story.title}`;
+  document.getElementById('storyLink').href = `story.html?id=${story.id}`;
+  document.getElementById('readerMeta').textContent = story.title;
+  document.getElementById('chapterTitle').textContent = `Chương ${chapter.number} · ${chapter.title}`;
+  document.getElementById('chapterContent').innerHTML = chapter.content.map(p => `<p>${p}</p>`).join('');
+
+  const nums = story.chapters.map(c => c.number).sort((a,b)=>a-b);
+  const idx = nums.indexOf(chapter.number);
+  const prev = nums[idx-1], next = nums[idx+1];
+
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  if (prev) prevBtn.href = `chapter.html?id=${story.id}&chapter=${prev}`;
+  else { prevBtn.classList.add('disabled'); prevBtn.removeAttribute('href'); }
+  if (next) nextBtn.href = `chapter.html?id=${story.id}&chapter=${next}`;
+  else { nextBtn.classList.add('disabled'); nextBtn.removeAttribute('href'); }
+  document.getElementById('listBtn').href = `story.html?id=${story.id}`;
+</script>
+</body>
+</html>
