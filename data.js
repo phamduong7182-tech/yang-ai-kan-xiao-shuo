@@ -2,11 +2,12 @@ const STORIES = [
   {
     id: "demo",
     title: "Sau Khi Trọng Sinh, Đồ Đệ Ngoan Của Ta Hắc Hóa Rồi",
-    short: "",
+    short: "Lục Chân · Hoắc Thận Hành",
     genre: "dammy",
     genreLabel: "ĐAM MỸ · ĐANG DỊCH",
     author: "Tác giả mẫu",
-    description: "Văn Án:
+
+    description: `Văn Án:
 
 Lục Chân khó khăn lắm mới nuôi lớn được đồ đệ Hoắc Thận Hành, vậy mà cuối cùng lại bị người ta hãm hại đến mất mạng.
 
@@ -34,14 +35,18 @@ Cho đến khi người ấy chết đi, Hoắc Thận Hành mới hiểu ra r�
 
 Tất cả đều sai rồi.
 
-“Sư tôn, đồ nhi biết sai rồi… Người trở về có được không?”",
-   
+“Sư tôn, đồ nhi biết sai rồi… Người trở về có được không?”`,
+
     tags: ["Đam mỹ", "Bản dịch", "Đang cập nhật"],
+
     chapters: [
       {
-        number: 54, title: "Đệ tử không thể kiểm soát tình cảm của mình", date: "25/09/2026",
+        number: 54,
+        title: "Đệ tử không thể kiểm soát tình cảm của mình",
+        date: "25/09/2026",
+
         content: [
-          " Tiểu đồ đệ lúc đầu còn ngồi đàng hoàng, sau đó chống cằm nhìn Lục Chân, cuối cùng dứt khoát nằm nghiêng xuống, chống đầu, lim dim buồn ngủ.
+          `Tiểu đồ đệ lúc đầu còn ngồi đàng hoàng, sau đó chống cằm nhìn Lục Chân, cuối cùng dứt khoát nằm nghiêng xuống, chống đầu, lim dim buồn ngủ.
 
 Lục Chân đọc hết một lượt những dòng chữ chi chít kia, đọc đến mức mắt cũng mỏi nhừ, vậy mà vẫn chẳng nhìn ra được manh mối gì.
 
@@ -54,22 +59,39 @@ Hắn gần như đã nghiên cứu đến mức có thể nhìn những chữ v
 Hoắc Thận Hành đã ngủ từ lúc nào không hay.
 
 Nghe tiếng hô hấp đều đặn của đồ đệ, Lục Chân thở dài, ngửa đầu thất thần nhìn lên trần nhà.
+
 Sau đó hắn phát hiện trên trần nhà cũng có hình vẽ.
+
 Lục Chân cúi đầu, đưa tay day day ấn đường.
+
 Vị Nguyên Minh Tinh Quân này đúng là một nhân tài.
+
 Vẽ nhiều hình như vậy mà chẳng biết rốt cuộc để làm gì.
+
 Ước chừng nhất thời bọn họ cũng chưa thể ra ngoài được, Lục Chân bèn bình tĩnh lại.
+
 Dù sao có sốt ruột cũng chẳng ích gì.
-Cứ như vậy, Lục Chân nghiên cứu toàn bộ hình vẽ và chữ viết suốt nửa tháng.  
+
+Cứ như vậy, Lục Chân nghiên cứu toàn bộ hình vẽ và chữ viết suốt nửa tháng.
+
 Đến mức những dòng chữ nhỏ kia hắn đều có thể thuộc lòng, vậy mà vẫn không hiểu được chúng có ý nghĩa gì.
+
 Hắn tin chắc rằng trong những hình vẽ và chữ viết này nhất định ẩn giấu một con đường sống.
+
 Chỉ là hắn không nhìn ra được mà thôi.
+
 Đã nửa tháng rồi.
+
 Ngay cả Lục Chân cũng không khỏi có chút nản lòng.
+
 Hắn ngồi xuống, quay đầu nhìn Hoắc Thận Hành đang lười biếng ngủ say.
+
 Đồ đệ lúc ngủ đáng yêu hơn lúc tỉnh nhiều.
+
 Lục Chân thầm nghĩ.
+
 Đôi mày tuấn tú cùng đường nét gương mặt anh tuấn của thiếu niên lúc này trở nên yên tĩnh và vô hại, hoàn toàn không giống ngày thường.
+
 Bình thường, tên nhóc này hoặc là làm mặt lạnh với hắn, hoặc là làm nũng giả vờ đáng thương, ép hắn chẳng biết phải làm sao.
 
 Lục Chân lúc nào cũng hết cách với hắn.
@@ -114,7 +136,7 @@ Nhờ hắn chăm sóc, dạy dỗ Hoắc Thận Hành thật tốt.
 
 Đừng nói cho Hoắc Thận Hành biết thân phận thật sự của mình, để hắn có thể làm một đứa trẻ bình thường mà sống tiếp.
 
-Vì chuyện đó, Đại sư huynh còn cố ý để Hoắc Thận Hành theo họ mẹ, mang họ **Hoắc**, như vậy sẽ khó khiến người khác liên tưởng đến Đại sư huynh — **Hứa Chí**.
+Vì chuyện đó, Đại sư huynh còn cố ý để Hoắc Thận Hành theo họ mẹ, mang họ Hoắc, như vậy sẽ khó khiến người khác liên tưởng đến Đại sư huynh — Hứa Chí.
 
 Đây là con của Đại sư huynh.
 
@@ -308,7 +330,7 @@ Tám năm.
 
 Mỗi một ngày trong tám năm ấy, Hoắc Thận Hành đều muốn hỏi Lục Chân:
 
-**Rốt cuộc trong lòng người, người xem ta là gì?**
+“Rốt cuộc trong lòng người, người xem ta là gì?”
 
 Tất cả những điều đó...
 
@@ -320,11 +342,11 @@ Nếu thật sự là vậy, tại sao phải diễn giống như tình cảm ch
 
 Hắn chỉ có thể không ngừng nhắc nhở bản thân:
 
-**Lục Chân chỉ làm vậy vì Thánh Vật.**
+“Lục Chân chỉ làm vậy vì Thánh Vật.”
 
-**Chỉ vì Thánh Vật mà thôi.**
+“Chỉ vì Thánh Vật mà thôi.”
 
-**Người này không đáng để hắn tin tưởng.**
+“Người này không đáng để hắn tin tưởng.”
 
 Hốc mắt Lục Chân nhất thời đỏ lên.
 
@@ -336,32 +358,16 @@ Hắn không nhịn được mà giải thích:
 
 Hoắc Thận Hành khẽ cười.
 
-Lục Chân muốn nói **phải**.
+Lục Chân muốn nói phải.
 
 Nhưng Hoắc Thận Hành lập tức nói tiếp:
 
-“Chứ không phải vì muốn biết tung tích của Thánh Vật?”
-",
-          
-        ]
-      },
-      {
-        number: 2, title: "Một ngày mới", date: "25/09/2026",
-        content: [
-          "Chương mẫu số 2.",
-          "Website đã có sẵn nút chuyển chương trước, chương sau và quay về mục lục.",
-          "Sau này có thể mở rộng thêm nhiều truyện mà không phải làm lại giao diện."
-        ]
-      },
-      {
-        number: 3, title: "Chương mới nhất", date: "25/09/2026",
-        content: [
-          "Đây là chương mới nhất trong dữ liệu demo.",
-          "Nếu bạn gửi nội dung truyện, mình có thể giúp bạn đưa nó vào đúng cấu trúc này."
+“Chứ không phải vì muốn biết tung tích của Thánh Vật?”`
         ]
       }
     ]
   },
+
   {
     id: "truyen-2",
     title: "Tên truyện thứ hai",
@@ -369,12 +375,20 @@ Nhưng Hoắc Thận Hành lập tức nói tiếp:
     genre: "ngontinh",
     genreLabel: "NGÔN TÌNH · SẮP ĐĂNG",
     author: "Tác giả mẫu",
+
     description: "Một bộ truyện mẫu khác để bạn thấy cách trang chủ hiển thị nhiều truyện.",
+
     tags: ["Ngôn tình", "Đang cập nhật"],
+
     chapters: [
       {
-        number: 1, title: "Mở đầu", date: "24/09/2026",
-        content: ["Nội dung chương mẫu của truyện thứ hai."]
+        number: 1,
+        title: "Mở đầu",
+        date: "24/09/2026",
+
+        content: [
+          "Nội dung chương mẫu của truyện thứ hai."
+        ]
       }
     ]
   }
