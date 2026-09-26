@@ -367,7 +367,264 @@ Nhưng Hoắc Thận Hành lập tức nói tiếp:
       }
     ]
   },
+{
+  number: 90,
+  title: "Ta thật sự muốn giết ngươi",
+  date: "26/09/2026",
+  content: [
+    `Sau khi Lục Chân hôn mê, Hoắc Thận Hành vội kiểm tra cơ thể hắn một lượt, phát hiện không có nguy hiểm đến tính mạng, chỉ là cảm xúc quá mức kích động, nghỉ ngơi dưỡng thương cho tốt là sẽ ổn, lúc này mới yên tâm.
 
+Ngay sau đó, hắn khoanh tay, thong thả cười nói:
+
+“Tiểu Hắc? Còn trốn trong đó làm gì, không ra gặp mặt một chút sao?”
+
+Tiểu Hắc không tình nguyện chui ra khỏi nạp giới, cảnh giác trừng mắt nhìn Hoắc Thận Hành, trong mắt tràn đầy tức giận.
+
+“Chuyện giao ước mà vừa rồi ngươi và sư tôn nói…”
+
+“Ta không nói cho ngươi biết!” Tiểu Hắc lập tức ngắt lời.
+
+Nếu nói cho Hoắc Thận Hành biết, chẳng phải cái đuôi của hắn sẽ vểnh lên tận trời sao.
+
+“Được, ta biết ngươi không chịu nói. Thứ ta muốn hỏi là một chuyện khác.”
+
+Khóe môi Hoắc Thận Hành cong lên, mang theo vẻ không có ý tốt.
+
+“Chuyện gì?”
+
+Hoắc Thận Hành nói:
+
+“Vừa rồi sư tôn đã giải trừ khế ước với ngươi rồi đúng không? Ta muốn ngươi kết khế ước với ta, trở thành linh sủng của ta.”
+
+“Ngươi nằm mơ!” Tiểu Hắc chửi ầm lên, “Ta làm linh sủng của ai cũng không làm linh sủng của ngươi. Ngươi là kẻ xấu, đồ khốn kiếp! Ta không thích ngươi!”
+
+Ai bảo hắn bắt nạt Lục Chân như vậy, lại còn suốt ngày thích bắt nạt nó!
+
+“Vậy sao?”
+
+Hoắc Thận Hành liếc Lục Chân bên cạnh, lạnh nhạt nói:
+
+“Ngươi chắc chắn không đồng ý? Phải biết rằng, hiện giờ Lục Chân đang ở trong tay ta. Chỉ cần một ý niệm của ta, hắn sẽ chết.”
+
+Tiểu Hắc thật sự bị Hoắc Thận Hành làm cho kinh ngạc.
+
+Nó không ngờ tên này lại chẳng có chút giới hạn nào như vậy. Đừng nói đến chuyện báo đáp, hắn vậy mà còn muốn dùng tính mạng của Lục Chân để uy hiếp nó!
+
+Quả thực quá đáng!
+
+“Đó là sư tôn của ngươi!” Tiểu Hắc giận không thể át, “Người vẫn luôn bảo vệ ngươi, chăm sóc ngươi, ngươi còn là con người không vậy?”
+
+“Xin lỗi, ta là ma.”
+
+Hoắc Thận Hành chẳng những không lấy làm hổ thẹn, ngược lại còn thản nhiên nói:
+
+“Ngươi cứ coi ta là ta đi. Ngươi thử hỏi khắp thiên hạ xem, có mấy kẻ loài người không muốn giết ta?”
+
+“Chỉ vì Thánh vật.”
+
+Hắn đưa tay đặt lên ngực trái.
+
+“Mạng của bọn họ là mạng, còn mạng của ta thì không phải mạng sao? Người trong thiên hạ đã từng làm gì cho ta? Tại sao ta phải hy sinh bản thân để thành toàn cho bọn họ?”
+
+Tiểu Hắc bị lời lẽ của hắn làm cho ngây người, nhưng cũng không tìm được lời nào để phản bác.
+
+Nó ấp úng hồi lâu mới nói:
+
+“Nhưng Thánh vật vốn là của Thái Hư Môn.”
+
+“Thánh vật là phụ thân ta đưa cho ta.”
+
+Hoắc Thận Hành khẽ cười khẩy:
+
+“Lúc ta sinh ra đã bẩm sinh yếu ớt, mang tướng yểu mệnh. Sau đó lại mắc bệnh nặng, suýt chút nữa mất mạng.”
+
+“Phụ thân vì muốn giữ mạng cho ta, mới đặt Thánh vật vào trong cơ thể ta để kéo dài tính mạng.”
+
+Nói đến đây, giọng hắn đột nhiên chuyển lạnh:
+
+“Nhưng tất cả mọi người đều muốn mạng của ta.”
+
+Đôi mắt dài hẹp của Hoắc Thận Hành hơi nheo lại.
+
+“Ta suy nghĩ cho bản thân, ta muốn sống, có gì sai sao?”
+
+Tiểu Hắc không có trí thông minh cao như vậy, miệng lưỡi cũng chẳng lợi hại, không đấu lại Hoắc Thận Hành, chỉ có thể ủ rũ cúi đầu, yếu ớt phản bác:
+
+“Chuyện này thì liên quan gì đến sư tôn của ngươi? Người chưa từng làm gì có lỗi với ngươi.”
+
+“Người giết phụ thân ta.”
+
+Hoắc Thận Hành nói.
+
+Tiểu Hắc hoàn toàn không còn lời nào để nói.
+
+Hoắc Thận Hành cười tủm tỉm:
+
+“Vậy nên, trở thành linh sủng của ta, ta sẽ không giết hắn, được không?”
+
+Tiểu Hắc im lặng hồi lâu.
+
+Nó không biết Hoắc Thận Hành có thật sự giết Lục Chân hay không, nhưng nó không dám đánh cược.
+
+Lỡ như là thật thì sao?
+
+Nó vốn không có lựa chọn.
+
+“Ngươi đúng là một con rồng thông minh.”
+
+Hoắc Thận Hành khen ngợi.
+
+Thế là, Tiểu Hắc vừa mới giải trừ khế ước với Lục Chân xong, đã trở thành linh sủng của Hoắc Thận Hành.
+
+Khi Lục Chân tỉnh lại lần nữa, hắn phát hiện mình đang nằm trên một chiếc giường rộng lớn mềm mại.
+
+Nơi này rất xa lạ.
+
+Màn giường màu đỏ rực rỡ, phô trương, khiến nơi đây càng toát lên vẻ mập mờ khác thường.
+
+Quần áo trên người hắn cũng đã được thay, lúc này chỉ mặc một bộ trung y màu trắng mỏng nhẹ.
+
+Lục Chân xoa trán, ngồi dậy. Chiếc chăn gấm tinh xảo, đắt giá trượt xuống, để lộ một bên vai trắng như tuyết.
+
+“Ngọc Chân Quân, ngài tỉnh rồi?”
+
+Thuần Vu Tiên từ bên ngoài bước vào. Nhìn thấy Lục Chân, nàng mỉm cười:
+
+“Tông chủ sai ta đến chăm sóc ngài.”
+
+Nàng bưng bát thuốc đến bên cạnh Lục Chân, nói:
+
+“Đây là thuốc trị thương thượng hạng, có thể điều dưỡng thân thể. Ngọc Chân Quân nhân lúc còn nóng hãy uống đi.”
+
+Lục Chân nhìn bát thuốc, không nhận, lại nhìn Thuần Vu Tiên, hỏi:
+
+“Ngươi là nữ ma tu năm đó ta gặp bên ngoài Cực Âm Chi Địa?”
+
+“Là ta.”
+
+Thuần Vu Tiên gật đầu:
+
+“Ngọc Chân Quân quả nhiên trí nhớ tốt.”
+
+Lục Chân lại cười lạnh:
+
+“Hóa ra hắn đã sớm liên lạc với các ngươi như vậy. Uổng cho ta còn giống một kẻ ngốc, bị che mắt lâu như thế, chẳng biết gì cả.”
+
+“Ngọc Chân Quân, nhân lúc thuốc còn nóng, ngài uống đi.”
+
+Thần sắc Thuần Vu Tiên phức tạp.
+
+“Ta không uống.”
+
+Lục Chân nói:
+
+“Hắn đang ở đâu?”
+
+“Tông chủ đang bận chỉnh đốn Ma Tông, đồng thời chuẩn bị hôn lễ với ngài.”
+
+Thuần Vu Tiên nhẹ nhàng khuấy thuốc trong bát, giọng nói rất khẽ, trong giọng mang theo một ý vị khó mà nói rõ:
+
+“Trước hôn lễ, Ngọc Chân Quân phải điều dưỡng cơ thể cho thật tốt.”
+
+Lục Chân lại tức giận hất đổ bát thuốc:
+
+“Ta sẽ không uống thuốc này, càng không thể thành thân với hắn. Hôn lễ cũng không cần chuẩn bị nữa, dù sao cũng chỉ uổng công mà thôi.”
+
+Nước thuốc văng tung tóe lên tà váy đỏ của Thuần Vu Tiên.
+
+Nàng cụp mắt nhìn qua, khẽ cười:
+
+“Vậy ta lại có chút tò mò.”
+
+“Ngọc Chân Quân vì Tông chủ mà phản bội Thái Hư Môn. Trong mắt những người chính đạo kia, ngài đã chẳng khác gì ma đầu.”
+
+“Bây giờ lại bày ra bộ dáng đạo mạo chính phái đó làm gì? Rốt cuộc có ý nghĩa gì?”
+
+Lục Chân cười lạnh:
+
+“Ta chẳng có gì để nói với ma nữ như ngươi.”
+
+“Ta biết Tiên Quân xem thường ta.”
+
+Thuần Vu Tiên vẫn mỉm cười:
+
+“Ta chỉ là một nhân vật nhỏ mà thôi, sao có thể so với đại nhân vật như ngài.”
+
+“Ngài xem tình cảm của Tông chủ như cỏ rác, nhưng đó lại là thứ ta cầu mà không có được. Vậy mà bây giờ ta còn phải phụng mệnh hắn đến đây hầu hạ ngài.”
+
+Nói đến đây, ánh mắt Thuần Vu Tiên đột nhiên trở nên lạnh lẽo, một thanh chủy thủ bất ngờ đâm ra từ trong tay áo.
+
+Lưỡi dao kề ngang cổ Lục Chân.
+
+Nàng từ trên cao nhìn xuống Lục Chân:
+
+“Ta thật sự muốn giết ngươi.”
+
+“Nếu không có ngươi, có lẽ Tông chủ sẽ nhìn những người bên cạnh hắn nhiều hơn một chút, sẽ phát hiện người luôn ở bên cạnh hắn vẫn là ta.”
+
+Lục Chân khẽ chấn động.
+
+Hắn không ngờ nữ ma tu được phái đến chăm sóc mình này lại thầm thương Hoắc Thận Hành.
+
+Hoắc Thận Hành sắp xếp như vậy, chắc hẳn từ trước đến nay chưa từng để ý đến tâm tư của đối phương.
+
+Thật đáng buồn biết bao.
+
+Lục Chân cười khổ một tiếng, chẳng những không né tránh, ngược lại còn chủ động đâm người về phía lưỡi dao.
+
+Thuần Vu Tiên sợ hãi vội vàng thu tay lại.
+
+Lục Chân ủ rũ nói:
+
+“Ta lại muốn chết.”
+
+“Hắn sợ ta tìm đến cái chết, đến cả tu vi của ta cũng phong ấn rồi.”
+
+Không có tu vi trong người, muốn tự tận thì phải dựa vào ngoại vật, chẳng hạn như thanh chủy thủ này.
+
+Thuần Vu Tiên hừ lạnh:
+
+“Ngươi muốn chết thì cũng đừng liên lụy đến ta. Tông chủ phái ta trông chừng ngươi. Nếu ngươi chết, hắn nhất định sẽ trách tội lên đầu ta.”
+
+“Ngươi đối với hắn đúng là trung thành.”
+
+Lục Chân mỉa mai.
+
+“Ngươi sẽ không hiểu được Tông chủ có ý nghĩa thế nào đối với ta.”
+
+Thuần Vu Tiên thu chủy thủ trở lại trong tay áo:
+
+“Ta sẽ không giết ngươi, bởi vì Tông chủ thích ngươi.”
+
+“Ngươi chết, hắn sẽ đau lòng.”
+
+“Ta không muốn nhìn thấy hắn đau lòng.”
+
+Lục Chân kinh ngạc:
+
+“Ma Tông vậy mà vẫn có người nặng tình như ngươi.”
+
+“Trong mắt ngươi, người Ma Tông đều là những đại ma đầu sao?”
+
+Lục Chân không trả lời, nhưng thần sắc đã nói lên tất cả.
+
+Thuần Vu Tiên giễu cợt:
+
+“Nhưng vị Tông chủ đời trước chẳng phải cũng xuất thân từ Thái Hư Môn của các ngươi sao.”
+
+“Đại sư huynh…”
+
+Lục Chân mím môi, lẩm bẩm:
+
+“Đại sư huynh không giống vậy.”
+
+Đại sư huynh nhập môn sớm, Lục Chân nhập môn muộn, mà sư phụ lại thường xuyên xuất quỷ nhập thần, vì vậy sau khi nhập môn, Lục Chân đã nhận được rất nhiều sự chăm sóc của đại sư huynh Hứa Chí.
+
+Đối với Lục Chân mà nói, Hứa Chí không chỉ là huynh trưởng, mà còn giống như phụ thân.
+
+Đúng lúc ấy, Hoắc Thận Hành trở về.`
+  ]
+}
   {
     id: "truyen-2",
     title: "Tên truyện thứ hai",
